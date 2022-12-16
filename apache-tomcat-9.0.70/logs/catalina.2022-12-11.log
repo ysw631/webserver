@@ -1,0 +1,51 @@
+11-Dec-2022 10:33:53.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/9.0.70
+11-Dec-2022 10:33:53.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Dec 1 2022 14:05:47 UTC
+11-Dec-2022 10:33:53.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  9.0.70.0
+11-Dec-2022 10:33:53.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+11-Dec-2022 10:33:53.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+11-Dec-2022 10:33:53.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+11-Dec-2022 10:33:53.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-18.0.2.1
+11-Dec-2022 10:33:53.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          18.0.2.1+1-1
+11-Dec-2022 10:33:53.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+11-Dec-2022 10:33:53.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70
+11-Dec-2022 10:33:53.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70
+11-Dec-2022 10:33:53.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Dec-2022 10:33:53.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+11-Dec-2022 10:33:53.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+11-Dec-2022 10:33:53.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Dec-2022 10:33:53.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Dec-2022 10:33:53.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\conf\logging.properties
+11-Dec-2022 10:33:53.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Dec-2022 10:33:53.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+11-Dec-2022 10:33:53.790 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+11-Dec-2022 10:33:53.791 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+11-Dec-2022 10:33:53.791 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70
+11-Dec-2022 10:33:53.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70
+11-Dec-2022 10:33:53.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\temp
+11-Dec-2022 10:33:53.802 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.0]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [1.2.35]을(를) 로드했습니다.
+11-Dec-2022 10:33:53.822 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 용량정보들: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+11-Dec-2022 10:33:53.823 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL 설정: useAprConnector [false], useOpenSSL [true]
+11-Dec-2022 10:33:53.835 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 1.1.1q  5 Jul 2022]
+11-Dec-2022 10:33:54.138 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+11-Dec-2022 10:33:54.173 INFO [main] org.apache.catalina.startup.Catalina.load [649] 밀리초 내에 서버가 초기화되었습니다.
+11-Dec-2022 10:33:54.225 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+11-Dec-2022 10:33:54.233 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/9.0.70]
+11-Dec-2022 10:33:54.245 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\docs]을(를) 배치합니다.
+11-Dec-2022 10:33:54.729 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\docs]에 대한 배치가 [459] 밀리초에 완료되었습니다.
+11-Dec-2022 10:33:54.737 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\examples]을(를) 배치합니다.
+11-Dec-2022 10:33:55.520 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\examples]에 대한 배치가 [781] 밀리초에 완료되었습니다.
+11-Dec-2022 10:33:55.523 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\home]을(를) 배치합니다.
+11-Dec-2022 10:33:55.894 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\home]에 대한 배치가 [371] 밀리초에 완료되었습니다.
+11-Dec-2022 10:33:55.899 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\host-manager]을(를) 배치합니다.
+11-Dec-2022 10:33:55.972 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\host-manager]에 대한 배치가 [74] 밀리초에 완료되었습니다.
+11-Dec-2022 10:33:55.975 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\manager]을(를) 배치합니다.
+11-Dec-2022 10:33:56.054 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\manager]에 대한 배치가 [79] 밀리초에 완료되었습니다.
+11-Dec-2022 10:33:56.060 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\ROOT]을(를) 배치합니다.
+11-Dec-2022 10:33:56.105 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\jmk04\OneDrive\문서\apache-tomcat-9.0.70-windows-x64\apache-tomcat-9.0.70\webapps\ROOT]에 대한 배치가 [45] 밀리초에 완료되었습니다.
+11-Dec-2022 10:33:56.114 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+11-Dec-2022 10:33:56.158 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [1982] 밀리초 내에 시작되었습니다.
+11-Dec-2022 17:54:29.873 INFO [main] org.apache.catalina.core.StandardServer.await 셧다운 포트를 통해 유효한 셧다운 명령을 받았습니다. 서버 인스턴스를 중지시킵니다.
+11-Dec-2022 17:54:29.889 INFO [main] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8080"]을(를) 일시 정지 중
+11-Dec-2022 17:54:29.931 INFO [main] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+11-Dec-2022 17:54:30.148 INFO [main] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8080"]을(를) 중지시킵니다.
+11-Dec-2022 17:54:30.168 INFO [main] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8080"]을(를) 소멸시킵니다.
